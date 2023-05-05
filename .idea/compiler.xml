@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Battleship.Battleship-task-build-classes-java.main" target="11" />
+      <module name="Battleship.Battleship-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Battleship.Battleship-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Battleship.Battleship-task-build-reports-tests.main" target="11" />
+      <module name="Battleship.Battleship-task-build-test-results.main" target="11" />
+      <module name="Battleship.Battleship-task-build-tmp.main" target="11" />
+      <module name="Battleship.Battleship-task-out.main" target="11" />
+      <module name="Battleship.Battleship-task.main" target="11" />
+      <module name="Battleship.Topics-Abstract_class-About_abstract_classes.main" target="11" />
+      <module name="Battleship.Topics-Abstract_class-Features_of_an_abstract_method.main" target="11" />
+      <module name="Battleship.Topics-Abstract_class-IntBinaryOperation.main" target="11" />
+      <module name="Battleship.Topics-Abstract_class-Parts_of_an_abstract_class.main" target="11" />
+      <module name="Battleship.Topics-Abstract_class-Theory.main" target="11" />
+      <module name="Battleship.Topics-Abstract_class-Users_and_WebSites.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Calculate_Square.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Determine_an_exception.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Explore_the_standard_class_library.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Is_the_code_fully_protected.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Theory.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Where_an_exception_occurs.main" target="11" />
+      <module name="Battleship.Topics-Custom_exceptions-Checked_exception_with_constructor.main" target="11" />
+      <module name="Battleship.Topics-Custom_exceptions-Custom_exceptions_features.main" target="11" />
+      <module name="Battleship.Topics-Custom_exceptions-Handle_incorrect_inputs.main" target="11" />
+      <module name="Battleship.Topics-Custom_exceptions-Theory.main" target="11" />
+      <module name="Battleship.Topics-Exception_handling-Catching_some_exceptions.main" target="11" />
+      <module name="Battleship.Topics-Exception_handling-Method_named_process.main" target="11" />
+      <module name="Battleship.Topics-Exception_handling-Theory.main" target="11" />
+      <module name="Battleship.Topics-Exception_handling-What_exceptions_can_be_handled.main" target="11" />
+      <module name="Battleship.Topics-Files-A_relative_path.main" target="11" />
+      <module name="Battleship.Topics-Files-Are_siblings.main" target="11" />
+      <module name="Battleship.Topics-Files-Getting_information.main" target="11" />
+      <module name="Battleship.Topics-Files-Starting_characters.main" target="11" />
+      <module name="Battleship.Topics-Files-Theory.main" target="11" />
+      <module name="Battleship.Topics-Files-Сorrect_statements.main" target="11" />
+      <module name="Battleship.Topics-Hiding_and_overriding-Shapes_area.main" target="11" />
+      <module name="Battleship.Topics-Hiding_and_overriding-Theory.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Byte_vs_character_input_streams.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Convert_to_bytes.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Reverse_input_text.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Theory.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Indexing_rules.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Multidimensional_array_features.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Reverse_elements.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Battleship.Topics-NPE-Lines_that_may_throw_NPE.main" target="11" />
+      <module name="Battleship.Topics-NPE-Return_empty_string_when_argument_is_null.main" target="11" />
+      <module name="Battleship.Topics-NPE-Theory.main" target="11" />
+      <module name="Battleship.Topics-NPE-Unknown_input.main" target="11" />
+      <module name="Battleship.Topics-NPE-Where_NPE_might_occur.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-How_to_throw_an_exception.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Possible_declaration.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Theory.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Throw_an_IOException.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Throw_an_unchecked_exception.main" target="11" />
+      <module name="Battleship.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
